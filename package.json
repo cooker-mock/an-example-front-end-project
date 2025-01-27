@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "repository": "git@github.com:Alex-xd/cooker-example.git",
+  "author": "boyuan <531237512@outlook.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
