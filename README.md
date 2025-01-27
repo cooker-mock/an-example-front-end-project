@@ -1,8 +1,49 @@
-# React + Vite
+# cooker-example
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A practical use case to mimic the real usage scenarios of cooker users. This includes all use case scenarios in actual usage.
 
-Currently, two official plugins are available:
+# Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [cooker-mock](https://github.com/cooker-mock/cooker-mock)
+- [cooker-proxy](https://github.com/cooker-mock/cooker-proxy)
+- [cooker-example (current)](https://github.com/cooker-mock/cooker-example)
+
+# Contribution Guide
+
+> Only information specific to this repo is listed here. For other general guidelines, please refer to the README.md of [cooker-mock](https://github.com/cooker-mock/cooker-mock) repo.
+
+...
+
+### 4. Run the Project for Development
+
+
+
+
+### 5. Project Directory Structure
+
+Below is an explanation of the project's directory structure:
+
+```
+.
+├── README.md                    # Project documentation
+├── cookerMockData               # Mock data saved locally in user's project directory by cooker-mock
+│   └── http__.api.getUserName_ID_u795
+│       └── default.json         
+├── eslint.config.js             # ESLint configuration file
+├── index.html                   # Main HTML file
+├── package.json                 # Project metadata and dependencies
+├── public
+│   └── logo.png                 # Public assets like images
+├── src
+│   ├── App.css                  # Main CSS file for the App component
+│   ├── App.jsx                  # Main React component
+│   ├── assets                   # Directory for static assets
+│   ├── components               # Directory for React components
+│   ├── index.css                # Global CSS file
+│   ├── main.jsx                 # Entry point for the React application
+│   └── pages                    # Directory for sub-pages
+├── vite.config.js               # Vite configuration file
+└── yarn.lock                    # Lockfile for Yarn dependencies
+```
+
+...
