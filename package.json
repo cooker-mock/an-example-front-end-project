@@ -3,15 +3,14 @@
   "private": true,
   "version": "1.1.0",
   "type": "module",
-  "repository": "git@github.com:Alex-xd/cooker-example.git",
+  "repository": "git@github.com:cooker-mock/cooker-example.git",
   "author": "boyuan <531237512@outlook.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "release": "standard-version"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@ant-design/icons": "^5.6.0",
