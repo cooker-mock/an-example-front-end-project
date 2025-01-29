@@ -1,7 +1,7 @@
 {
   "name": "cooker-example",
   "private": true,
-  "version": "1.1.0",
+  "version": "1.0.0",
   "type": "module",
   "repository": "git@github.com:cooker-mock/cooker-example.git",
   "author": "boyuan <531237512@outlook.com>",
@@ -10,7 +10,10 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "release:patch": "standard-version --release-as patch",
+    "release:minor": "standard-version --release-as minor",
+    "release:major": "standard-version --release-as major"
   },
   "dependencies": {
     "@ant-design/icons": "^5.6.0",
