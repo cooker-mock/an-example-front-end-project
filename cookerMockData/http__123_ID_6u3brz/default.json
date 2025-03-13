@@ -1,0 +1,605 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "Boyuan Zhang",
+      "age": 20,
+      "studentId": "S001",
+      "message": "Welcome to the university!"
+    },
+    {
+      "name": "Bob Smith",
+      "age": 22,
+      "studentId": "S002",
+      "message": "Looking forward to the semester!"
+    },
+    {
+      "name": "Charlie Brown",
+      "age": 21,
+      "studentId": "S003",
+      "message": "Excited to learn new things!"
+    },
+    {
+      "name": "Diana Prince",
+      "age": 23,
+      "studentId": "S004",
+      "message": "Ready for the challenges ahead!"
+    },
+    {
+      "name": "Ethan Hunt",
+      "age": 24,
+      "studentId": "S005",
+      "message": "Let’s make this year great!"
+    },
+    {
+      "name": "Fiona Gallagher",
+      "age": 19,
+      "studentId": "S006",
+      "message": "Eager to dive into my studies!"
+    },
+    {
+      "name": "George Clooney",
+      "age": 25,
+      "studentId": "S007",
+      "message": "Can't wait to meet new friends!"
+    },
+    {
+      "name": "Hannah Montana",
+      "age": 21,
+      "studentId": "S008",
+      "message": "Ready to rock the campus!"
+    },
+    {
+      "name": "Ian Malcolm",
+      "age": 23,
+      "studentId": "S009",
+      "message": "Let’s explore new horizons!"
+    },
+    {
+      "name": "Jack Sparrow",
+      "age": 27,
+      "studentId": "S010",
+      "message": "Adventure awaits this semester!"
+    },
+    {
+      "name": "Kara Danvers",
+      "age": 22,
+      "studentId": "S011",
+      "message": "Time to shine and learn!"
+    },
+    {
+      "name": "Luke Skywalker",
+      "age": 24,
+      "studentId": "S012",
+      "message": "May the force be with us!"
+    },
+    {
+      "name": "Mia Thermopolis",
+      "age": 20,
+      "studentId": "S013",
+      "message": "A great year ahead!"
+    },
+    {
+      "name": "Noah Beck",
+      "age": 21,
+      "studentId": "S014",
+      "message": "Let's create amazing memories!"
+    },
+    {
+      "name": "Olivia Pope",
+      "age": 23,
+      "studentId": "S015",
+      "message": "Prepared to tackle anything!"
+    },
+    {
+      "name": "Peter Parker",
+      "age": 22,
+      "studentId": "S016",
+      "message": "Excited for the semester!"
+    },
+    {
+      "name": "Quinn Fabray",
+      "age": 21,
+      "studentId": "S017",
+      "message": "Ready to do amazing things!"
+    },
+    {
+      "name": "Ron Weasley",
+      "age": 24,
+      "studentId": "S018",
+      "message": "Excited to make new friends!"
+    },
+    {
+      "name": "Samantha Carter",
+      "age": 23,
+      "studentId": "S019",
+      "message": "Looking forward to new challenges!"
+    },
+    {
+      "name": "Tony Stark",
+      "age": 30,
+      "studentId": "S020",
+      "message": "Innovation starts here!"
+    },
+    {
+      "name": "Uma Thurman",
+      "age": 25,
+      "studentId": "S021",
+      "message": "Ready to take on the world!"
+    },
+    {
+      "name": "Vince Vaughn",
+      "age": 29,
+      "studentId": "S022",
+      "message": "Let's make some memories!"
+    },
+    {
+      "name": "Will Smith",
+      "age": 31,
+      "studentId": "S023",
+      "message": "Time to learn and grow!"
+    },
+    {
+      "name": "Xena Warrior",
+      "age": 26,
+      "studentId": "S024",
+      "message": "Strength and knowledge await!"
+    },
+    {
+      "name": "Yara Greyjoy",
+      "age": 22,
+      "studentId": "S025",
+      "message": "Sailing towards success!"
+    },
+    {
+      "name": "Zach Morris",
+      "age": 23,
+      "studentId": "S026",
+      "message": "Can't wait for new adventures!"
+    },
+    {
+      "name": "Alice Wonderland",
+      "age": 20,
+      "studentId": "S027",
+      "message": "Time to explore the unknown!"
+    },
+    {
+      "name": "Bruce Wayne",
+      "age": 25,
+      "studentId": "S028",
+      "message": "Ready to build my future!"
+    },
+    {
+      "name": "Clark Kent",
+      "age": 24,
+      "studentId": "S029",
+      "message": "Look up in the sky, it’s time to learn!"
+    },
+    {
+      "name": "Daryl Dixon",
+      "age": 29,
+      "studentId": "S030",
+      "message": "Let's stick together and thrive!"
+    },
+    {
+      "name": "Eleanor Shellstrop",
+      "age": 21,
+      "studentId": "S031",
+      "message": "Excited for the good place!"
+    },
+    {
+      "name": "Frodo Baggins",
+      "age": 22,
+      "studentId": "S032",
+      "message": "Adventure is out there!"
+    },
+    {
+      "name": "Geralt of Rivia",
+      "age": 28,
+      "studentId": "S033",
+      "message": "Time to get to work!"
+    },
+    {
+      "name": "Hermione Granger",
+      "age": 20,
+      "studentId": "S034",
+      "message": "LET'S STUDY HARD!"
+    },
+    {
+      "name": "Iris West",
+      "age": 21,
+      "studentId": "S035",
+      "message": "Exciting opportunities ahead!"
+    },
+    {
+      "name": "Jack Dawson",
+      "age": 22,
+      "studentId": "S036",
+      "message": "Ready to make a splash!"
+    },
+    {
+      "name": "Klaus Mikaelson",
+      "age": 24,
+      "studentId": "S037",
+      "message": "Let’s delve into mysteries!"
+    },
+    {
+      "name": "Luna Lovegood",
+      "age": 25,
+      "studentId": "S038",
+      "message": "Embrace the unusual!"
+    },
+    {
+      "name": "Maximus Decimus",
+      "age": 30,
+      "studentId": "S039",
+      "message": "Let's conquer new challenges!"
+    },
+    {
+      "name": "Nina Williams",
+      "age": 21,
+      "studentId": "S040",
+      "message": "Stepping into greatness!"
+    },
+    {
+      "name": "Oscar Isaac",
+      "age": 23,
+      "studentId": "S041",
+      "message": "Let's embark on this journey!"
+    },
+    {
+      "name": "Penny Lane",
+      "age": 22,
+      "studentId": "S042",
+      "message": "The best is yet to come!"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "age": 27,
+      "studentId": "S043",
+      "message": "Time to create my story!"
+    },
+    {
+      "name": "Ragnar Lothbrok",
+      "age": 30,
+      "studentId": "S044",
+      "message": "Seize the day!"
+    },
+    {
+      "name": "Sophie Turner",
+      "age": 25,
+      "studentId": "S045",
+      "message": "Let's thrive together!"
+    },
+    {
+      "name": "Tyrion Lannister",
+      "age": 28,
+      "studentId": "S046",
+      "message": "Knowledge is power!"
+    },
+    {
+      "name": "Ursula Andress",
+      "age": 23,
+      "studentId": "S047",
+      "message": "Excited for a brighter future!"
+    },
+    {
+      "name": "Vincent Vega",
+      "age": 26,
+      "studentId": "S048",
+      "message": "Let's make an impact!"
+    },
+    {
+      "name": "Wolverine Logan",
+      "age": 29,
+      "studentId": "S049",
+      "message": "Time to learn and adapt!"
+    },
+    {
+      "name": "Xander Harris",
+      "age": 22,
+      "studentId": "S050",
+      "message": "Ready to fight for knowledge!"
+    },
+    {
+      "name": "Yuki Nagato",
+      "age": 21,
+      "studentId": "S051",
+      "message": "Anticipating new challenges!"
+    },
+    {
+      "name": "Zelda Fitzgerald",
+      "age": 24,
+      "studentId": "S052",
+      "message": "Creating my narrative!"
+    },
+    {
+      "name": "Alice Kingsleigh",
+      "age": 20,
+      "studentId": "S053",
+      "message": "Exploring new realms of knowledge!"
+    },
+    {
+      "name": "Billie Eilish",
+      "age": 21,
+      "studentId": "S054",
+      "message": "Making waves this semester!"
+    },
+    {
+      "name": "Cleo de Nile",
+      "age": 22,
+      "studentId": "S055",
+      "message": "Excited for some ancient wisdom!"
+    },
+    {
+      "name": "Dumbledore Albus",
+      "age": 30,
+      "studentId": "S056",
+      "message": "A bright future lies ahead!"
+    },
+    {
+      "name": "Elsa Frozen",
+      "age": 26,
+      "studentId": "S057",
+      "message": "Time to let go of fears!"
+    },
+    {
+      "name": "Finnick Odair",
+      "age": 24,
+      "studentId": "S058",
+      "message": "Ready for the adventure!"
+    },
+    {
+      "name": "Groot Baby",
+      "age": 22,
+      "studentId": "S059",
+      "message": "I am Groot! (Excited!)"
+    },
+    {
+      "name": "Hercules",
+      "age": 23,
+      "studentId": "S060",
+      "message": "Strong and ready to learn!"
+    },
+    {
+      "name": "Indiana Jones",
+      "age": 29,
+      "studentId": "S061",
+      "message": "Adventure starts here!"
+    },
+    {
+      "name": "Jasmine Aladdin",
+      "age": 25,
+      "studentId": "S062",
+      "message": "Ready to explore new worlds!"
+    },
+    {
+      "name": "Kida Nedakh",
+      "age": 20,
+      "studentId": "S063",
+      "message": "Ancient wisdom awaits!"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "age": 30,
+      "studentId": "S064",
+      "message": "Let's create a legacy!"
+    },
+    {
+      "name": "Monica Geller",
+      "age": 29,
+      "studentId": "S065",
+      "message": "I am ready to succeed!"
+    },
+    {
+      "name": "Nemo Fish",
+      "age": 23,
+      "studentId": "S066",
+      "message": "Just keep learning!"
+    },
+    {
+      "name": "Otto Octavius",
+      "age": 27,
+      "studentId": "S067",
+      "message": "Learning is endless!"
+    },
+    {
+      "name": "Pocahontas",
+      "age": 24,
+      "studentId": "S068",
+      "message": "Let's connect with nature!"
+    },
+    {
+      "name": "Quasimodo",
+      "age": 30,
+      "studentId": "S069",
+      "message": "Time to rise above!"
+    },
+    {
+      "name": "Rory Gilmore",
+      "age": 22,
+      "studentId": "S070",
+      "message": "Studying hard is my art!"
+    },
+    {
+      "name": "Sonic Hedgehog",
+      "age": 21,
+      "studentId": "S071",
+      "message": "Gotta learn fast!"
+    },
+    {
+      "name": "Tina Fey",
+      "age": 29,
+      "studentId": "S072",
+      "message": "Let's make it fun!"
+    },
+    {
+      "name": "Ursula K. Le Guin",
+      "age": 26,
+      "studentId": "S073",
+      "message": "Ready for new writing adventures!"
+    },
+    {
+      "name": "Victor Frankenstein",
+      "age": 27,
+      "studentId": "S074",
+      "message": "Time to create knowledge!"
+    },
+    {
+      "name": "Wednesday Addams",
+      "age": 23,
+      "studentId": "S075",
+      "message": "Learning is thrilling!"
+    },
+    {
+      "name": "Xena Warrior Princess",
+      "age": 30,
+      "studentId": "S076",
+      "message": "Defending knowledge!"
+    },
+    {
+      "name": "Yuki Tsunoda",
+      "age": 24,
+      "studentId": "S077",
+      "message": "Speeding towards success!"
+    },
+    {
+      "name": "Zorro",
+      "age": 29,
+      "studentId": "S078",
+      "message": "Time to be legendary!"
+    },
+    {
+      "name": "Aragorn",
+      "age": 25,
+      "studentId": "S079",
+      "message": "Let's be courageous!"
+    },
+    {
+      "name": "Beatrix Kiddo",
+      "age": 30,
+      "studentId": "S080",
+      "message": "A journey for knowledge!"
+    },
+    {
+      "name": "Cassandra Cain",
+      "age": 22,
+      "studentId": "S081",
+      "message": "Learning to be the best!"
+    },
+    {
+      "name": "Dante Alighieri",
+      "age": 24,
+      "studentId": "S082",
+      "message": "A journey through heaven and hell!"
+    },
+    {
+      "name": "Emilia Clarke",
+      "age": 28,
+      "studentId": "S083",
+      "message": "Learning and growing every day!"
+    },
+    {
+      "name": "Frankie Addams",
+      "age": 23,
+      "studentId": "S084",
+      "message": "Living life to the fullest!"
+    },
+    {
+      "name": "Gandalf the Grey",
+      "age": 30,
+      "studentId": "S085",
+      "message": "A wisdom like no other!"
+    },
+    {
+      "name": "Hermes",
+      "age": 26,
+      "studentId": "S086",
+      "message": "Let’s make connections!"
+    },
+    {
+      "name": "Isabella Swan",
+      "age": 22,
+      "studentId": "S087",
+      "message": "A new adventure starts!"
+    },
+    {
+      "name": "Jack Skellington",
+      "age": 21,
+      "studentId": "S088",
+      "message": "A strange but wonderful journey!"
+    },
+    {
+      "name": "Katherine Pierce",
+      "age": 24,
+      "studentId": "S089",
+      "message": "Let’s embrace the unknown!"
+    },
+    {
+      "name": "Loki",
+      "age": 30,
+      "studentId": "S090",
+      "message": "A trickster's road to knowledge!"
+    },
+    {
+      "name": "Minerva McGonagall",
+      "age": 25,
+      "studentId": "S091",
+      "message": "Time to educate ourselves!"
+    },
+    {
+      "name": "Nikita",
+      "age": 29,
+      "studentId": "S092",
+      "message": "A covert operation in learning!"
+    },
+    {
+      "name": "Oberyn Martell",
+      "age": 27,
+      "studentId": "S093",
+      "message": "Time to learn combat skills!"
+    },
+    {
+      "name": "Penny Dreadful",
+      "age": 21,
+      "studentId": "S094",
+      "message": "Dramatic stories await!"
+    },
+    {
+      "name": "Quill Featherstone",
+      "age": 22,
+      "studentId": "S095",
+      "message": "Doing life one note at a time!"
+    },
+    {
+      "name": "Raven Reyes",
+      "age": 23,
+      "studentId": "S096",
+      "message": "Creativity fuels my learning!"
+    },
+    {
+      "name": "Steve Rogers",
+      "age": 30,
+      "studentId": "S097",
+      "message": "To learn and to serve!"
+    },
+    {
+      "name": "T'Challa",
+      "age": 29,
+      "studentId": "S098",
+      "message": "Let’s lead with wisdom!"
+    },
+    {
+      "name": "Ulysses",
+      "age": 28,
+      "studentId": "S099",
+      "message": "Journeying home through education!"
+    },
+    {
+      "name": "Vanessa Ives",
+      "age": 24,
+      "studentId": "S100",
+      "message": "A new chapter to be written!"
+    }
+  ]
+}
