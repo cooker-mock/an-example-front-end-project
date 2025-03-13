@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Typography, Table, Button, Flex } from 'antd';
+import { Typography, Table, Button, Flex, message } from 'antd';
 
 const { Title } = Typography;
 
@@ -31,7 +31,11 @@ function App() {
       .then((data) => {
         setData(data);
       })
-      .catch((error) => console.error('Error fetching mock data:', error));
+      .catch((error) => {
+        console.error('Error fetching mock data:', error);
+        message.error('Error fetching data');
+        setData(null);
+      });
   };
 
   const columns = [
@@ -69,7 +73,7 @@ function App() {
           Search
         </Button>
       </Flex>
-      <Table dataSource={data?.data} columns={columns} />
+      <Table rowKey="studentId" dataSource={data?.data} columns={columns} />
     </div>
   );
 }
