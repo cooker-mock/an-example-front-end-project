@@ -1,0 +1,17 @@
+{
+  "success": "",
+  "data": [
+    {
+      "name": "Lyn",
+      "age": "23",
+      "studentId": "1212",
+      "message": ""
+    }
+  ],
+  "transfer": [
+    {
+      "channel": "",
+      "speed": ""
+    }
+  ]
+}
