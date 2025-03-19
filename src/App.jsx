@@ -22,6 +22,10 @@ function App() {
     fetch('/api/example')
       .then((response) => response.json())
       .then((data) => {
+        if (!data.success) {
+          message.error(data.errorMessage || 'Error fetching data');
+          return;
+        }
         setData(data);  // update state with received data
       })
       .catch((error) => {
