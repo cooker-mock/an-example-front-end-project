@@ -1,4 +1,4 @@
-# cooker-example
+# an-example-front-end-project
 
 A practical use case to mimic the real usage scenarios of cooker users. This includes all use case scenarios in actual usage.
 
@@ -6,7 +6,7 @@ A practical use case to mimic the real usage scenarios of cooker users. This inc
 
 - [cooker-mock](https://github.com/cooker-mock/cooker-mock)
 - [cooker-proxy](https://github.com/cooker-mock/cooker-proxy)
-- [cooker-example (current)](https://github.com/cooker-mock/cooker-example)
+- [an-example-front-end-project (current)](https://github.com/cooker-mock/an-example-front-end-project)
 
 # Contribution Guide
 

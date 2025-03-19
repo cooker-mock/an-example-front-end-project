@@ -1,9 +1,9 @@
 {
-  "name": "cooker-example",
+  "name": "an-example-front-end-project",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "repository": "git@github.com:cooker-mock/cooker-example.git",
+  "repository": "git@github.com:cooker-mock/an-example-front-end-project.git",
   "author": "boyuan <531237512@outlook.com>",
   "license": "MIT",
   "scripts": {
@@ -30,6 +30,7 @@
     "@types/react-dom": "^18.3.5",
     "@vitejs/plugin-react-swc": "^3.5.0",
     "concurrently": "^9.1.2",
+    "cooker-mock": "^1.5.0",
     "eslint": "^9.17.0",
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
