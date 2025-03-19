@@ -1,43 +1,38 @@
+/**
+ * App Component
+ * 
+ * @file App.jsx
+ * @author Xicheng <Yin>, <249508610>, <xyin@algomau.ca>
+ */
 import { useState } from 'react';
 import { Typography, Table, Button, Flex, message } from 'antd';
 
 const { Title } = Typography;
 
-// data = {
-//   "success": true,
-//   "data": [
-//     {
-//       "name": "Alice Johnson",
-//       "age": 20,
-//       "studentId": "S001",
-//       "message": "Welcome to the university!"
-//     },
-//     {
-//       "name": "Bob Smith",
-//       "age": 22,
-//       "studentId": "S002",
-//       "message": "Looking forward to the semester!"
-//     }
-//   ]
-// }
-
+/**
+ * App function component
+ */
 function App() {
+  // Initialize the state with empty data
   const [data, setData] = useState();
 
+  // Handle the search, fetch data from the api/example
   const handleSearch = () => {
     console.log('Fetching /api/example');
     fetch('/api/example')
       .then((response) => response.json())
       .then((data) => {
-        setData(data);
+        setData(data);  // update state with received data
       })
       .catch((error) => {
+        // handle error
         console.error('Error fetching mock data:', error);
         message.error('Error fetching data');
         setData(null);
       });
   };
 
+  // Define the columns
   const columns = [
     {
       title: 'Student ID',
@@ -61,6 +56,7 @@ function App() {
     },
   ];
 
+  // render component
   return (
     <div style={{ padding: '20px' }}>
       <Title level={1}>Cooker Example App</Title>
