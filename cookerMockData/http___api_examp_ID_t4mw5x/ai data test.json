@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "John Doe",
+      "age": 20,
+      "studentId": "123456",
+      "message": "Welcome to the university!"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 21,
+      "studentId": "123457",
+      "message": "Excited to start the semester!"
+    },
+    {
+      "name": "Alice Johnson",
+      "age": 22,
+      "studentId": "123458",
+      "message": "Looking forward to meeting new friends!"
+    },
+    {
+      "name": "Bob Brown",
+      "age": 19,
+      "studentId": "123459",
+      "message": "Ready for some challenges!"
+    },
+    {
+      "name": "Charlie Davis",
+      "age": 23,
+      "studentId": "123460",
+      "message": "Eager to learn and grow!"
+    },
+    {
+      "name": "Eva Green",
+      "age": 20,
+      "studentId": "123461",
+      "message": "Let's make this year unforgettable!"
+    },
+    {
+      "name": "Frank White",
+      "age": 22,
+      "studentId": "123462",
+      "message": "Can't wait for the classes to begin!"
+    },
+    {
+      "name": "Grace Black",
+      "age": 21,
+      "studentId": "123463",
+      "message": "Hope to achieve great things!"
+    },
+    {
+      "name": "Henry Adams",
+      "age": 19,
+      "studentId": "123464",
+      "message": "Ready to explore new opportunities!"
+    },
+    {
+      "name": "Ivy Wilson",
+      "age": 23,
+      "studentId": "123465",
+      "message": "Excited for this academic adventure!"
+    }
+  ]
+}
