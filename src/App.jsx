@@ -2,7 +2,7 @@
  * App Component
  * 
  * @file App.jsx
- * @author Xicheng <Yin>, <249508610>, <xyin@algomau.ca>
+ * @author Xicheng Yin, <249508610>, <xyin@algomau.ca>
  */
 import { useState } from 'react';
 import { Typography, Table, Button, Flex, message } from 'antd';
